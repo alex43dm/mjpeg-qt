@@ -1,2 +1,4 @@
 Makefile
 mjpeg-qt.pro.user
+mjpeg-qt
+*.o
