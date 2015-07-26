@@ -21,4 +21,5 @@ HEADERS += \
     mjpegthread.h
 
 DISTFILES += \
-    config.xml
+    config.xml \
+    default.jpeg

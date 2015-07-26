@@ -14,7 +14,7 @@ Item {
         Image {
             id: image1
             anchors.fill: parent
-            source: "qrc:/qtquickplugin/images/template_image.png"
+            source: "default.jpeg"
         }
     }
 
