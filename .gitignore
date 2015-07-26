@@ -2,3 +2,5 @@ Makefile
 mjpeg-qt.pro.user
 mjpeg-qt
 *.o
+moc_mjpegthread.cpp
+qrc_qml.cpp
